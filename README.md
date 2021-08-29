@@ -2,6 +2,9 @@
 
 I'm Brendon, living in united states. I make market-ready products, through product design and testing. I enjoy learning languages and frameworks, like React and React Native, and as well as Wordpress and Wix. I've enjoyed my expeiences implementing UI, UX, product deign, and wireframing. Find my work at https://thisisnotatest.me/about ⭐️😅🤯⻤
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brendonjhawkins)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
