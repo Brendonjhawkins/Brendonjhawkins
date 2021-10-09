@@ -5,7 +5,7 @@ I'm Brendon, living in united states. I make market-ready products, through prod
 <!-- Find my work at https://thisisnotatest.me/about ⭐️😅🤯⻤ -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brendonjhawkins)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brendonjhawkins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
