@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Brendon, living in united states. I make market-ready products, through product design and testing. I enjoy learning languages and frameworks, like React and React Native, and as well as Wordpress and Wix. I have experience implementing UI, UX, product deign, and wireframing. 
+I'm Brendon, living in united states. I make market-ready products, through product design and testing. I enjoy learning languages and libraries, like React and React Native. I have experience implementing UI, UX, product design, and wireframing. 
 
 <!-- Find my work at https://thisisnotatest.me/about ⭐️😅🤯⻤ -->
 
