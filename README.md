@@ -4,7 +4,6 @@ An experienced designer who is innately inquisitive. Ever growing interests have
 
 Find my work: https://thisisnotatest.me/ ⭐️😅🤯⻤
 
-[![BRENDON'S GitHub stats](https://github-readme-stats.vercel.app/api?username=Brendonjhawkins)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brendonjhawkins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
